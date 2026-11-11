@@ -84,7 +84,22 @@ If the content sparked 🔥 your interest, please consider buying the course and
 
 [The Course at Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)   
 
-Insert certificate here when completed
+
+<p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="#" 
+    alt="Intergariont to the AI integration!" 
+    style="width:570px;height:340px;"
+    />
+    <img 
+    id="GWT_As_A_Pure_Java_To_JavaScript_Transpiler_Certificate?trk=public_profile_see-credential" 
+    src="#"
+    alt="GWT as a pure java to javaScript transpiler!" 
+    width="600"
+    />
+</p>
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
@@ -295,8 +310,11 @@ align="center">
 
 All course material from *GWT as a pure Java to JavaScript transpiler* by **Zakaria A.**
 
-> add here🐟 <br><br>
-> ~ DevelopersCradle
+> When I was working at 👓👁️**𝐓𝐨𝐩𝐜𝐨𝐧 𝐇𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬**👁️👓, I was involved in integrating advanced AI capabilities into ophthalmic imaging workflows. One of the key challenges we faced was incorporating the EyeArt AI solution into our pipeline for processing fundus images, ensuring that results were not only accurate but also seamlessly available within our speedy systems. 🐟 
+>
+> By leveraging the latest **𝐭𝐨𝐩-𝐧𝐨𝐭𝐜𝐡** **𝐆**oogle **𝐖**eb **𝐓**oolkit’s **𝐉𝐒𝐈𝐧𝐭𝐞𝐫𝐨𝐩** capabilities, it became surprisingly smooth to bridge Java and JavaScript worlds, making development efficient and maintainable. 🐟
+>
+> While working on this integration, the course *“𝘎𝘞𝘛 𝘢𝘴 𝘢 𝘗𝘶𝘳𝘦 𝘑𝘢𝘷𝘢 𝘵𝘰 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘛𝘳𝘢𝘯𝘴𝘱𝘪𝘭𝘦𝘳”* came in especially handy, helping me better understand how to structure interoperable code and fully utilize JSInterop in real-world scenarios. 🐟 <br><br>~ DevelopersCradle
 
 Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
@@ -322,7 +340,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 id="Logo_Combination" 
 align="center">
     <img 
-    src="GWT_Running.jpg" 
+    src="I_Am_Going_To_Fast_GWT.jpg" 
     alt="Intergariont to the AI integration!" 
     style="width:570px;height:340px;"
     />
@@ -350,9 +368,107 @@ align="center">
     * *Quiz*:
         * [Quiz 00: xx](#) 
 
+# Angular - The Complete Guide (2022 Edition).
+
+![Angular](angular.png)
+
+All course material from **Angular - The Complete Guide (2024 Edition)** by Maximilian Schwarzmüller
+
+> 🐟 <br><br>~ DevelopersCradle
+
+My OS will be Windows 10, so some notes are based on this operating system. This contains exercise files and my own notes alongside with them.
 
 
-<hr>
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:
+
+[The Course at Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/).   
+[Acade Mind](https://academind.com/).   
+ 
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="CGI_Provided_Me_Angular_Course.jpeg" 
+    alt="course intros" 
+    style="width:490px;height:410px;"
+    />
+    <img 
+    src="Dummy_Cert.png" 
+    alt="course intros" 
+    style="width:490px;height:310px;"
+    />
+</p>
+<details>
+
+<summary id="Angular Learning Path" open="true"> <b> Angular Learning Path 2020! </b> </summary>
+
+<br>
+
+<p align="center">
+    <img src="Angular_Learning_Path_2020.PNG" alt="Agular Learning Path 2020" width="700"/>
+</p>
+
+</details>
 
 
-- TOdo add her the angular course
+#### Progress/Curriculum.
+
+- [x] [Section 01](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%201%20Gettings%20Started) - Getting Started
+- [x] [Section 02](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%202%20The%20Basics) - The Basics 
+- [x] [Section 03](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%203%20Course%20Project%20-%20The%20Basics) - Course Project - The Basics
+- [x] [Section 04](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%204%20Debugging) - Debugging
+- [ ] [Section 05](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%205%20Components%20%26%20Databinding%20Deep%20Dive) - Components & Data binding Deep Dive
+- [ ] [Section 06](#) - Course Project - Components & Data binding
+- [ ] [Section 07](#) - Directives Deep Dive
+- [ ] [Section 08](#) - Course Project - Directives
+- [ ] [Section 09](#) - Using Services & Dependency Injection
+- [ ] [Section 10](#) - Course Project - Services & Dependency Injection
+- [ ] [Section 11](#) - Changing Pages with Routing
+- [ ] [Section 12](#) - Course Project - Routing 
+- [x] [Section 13](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%2013%20%20Understanding%20Observables) - Understanding Observables
+- [ ] [Section 14](#) - Course Project - Observables
+- [ ] [Section 15](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%2015%20Handling%20Forms%20in%20Angular%20Apps) - Handling Forms in Angular Apps
+- [ ] [Section 16](#) - Course Project - Forms
+- [x] [Section 17](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%2017%20Using%20Pipes%20to%20Transform%20Output) - Using Pipes to Transform Output 
+- [ ] [Section 18](#) - Making Http Requests 
+- [ ] [Section 19](#) - Course Project - Http
+- [ ] [Section 20](#) - Authentication & Route Protection in Angular
+- [ ] [Section 21](#) - Dynamic Components
+- [ ] [Section 22](#) - Angular Modules & Optimizing Angular Apps
+- [ ] [Section 23](#) - Deploying an Angular App 
+- [ ] [Section 24](#) - Standalone Components
+- [ ] [Section 25](#) - Angular Signals
+- [ ] [Section 26](#) - Bonus: Using NgRx For State Management
+- [ ] [Section 27](#) - Bonus: Angular Universal
+- [ ] [Section 28](#) - Angular Animations
+- [ ] [Section 29](#) - Adding Offline Capabilities with Service Workers
+- [ ] [Section 30](#) - A Basic Introduction to Unit Testing in Angular Apps
+- [ ] [Section 31](#) - Angular as a Platform & Closer Look at the CLI
+- [ ] [Section 32](#) - Angular Changes & New Features
+- [ ] [Section 33](#) - Course Roundup
+- [x] [Section 34](https://github.com/developersCradle/angular-complete-guide/tree/main/Section%2033%20TypeScript%20Introduction%20(for%20Angular%202%20Usage)) - TypeScript Introduction (for Angular 2 Usage)
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Coding Exercise 01 here](#).
+
+#### Additional stuff.
+
+- todo fix the forms chapter viewChild thing
+- [ ] Lastly thought Angular documents as refreshment 
+- [ ] some minor angular project, magic/religious calendar app just for fun
